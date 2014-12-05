@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.hamster.pedia" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Hamsterpedia</name>
+<widget id="com.ajs.test" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>AjsTest</name>
     <description>
-        Hamsterpedia gives you convenience by placing everything you need to know about cute little hamsters right into your palm!
+        Testing!
     </description>
     <author email="" href="">
         David G
